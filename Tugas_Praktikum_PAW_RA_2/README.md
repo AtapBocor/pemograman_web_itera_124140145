@@ -1,4 +1,4 @@
-# Kampus Planner
+git push -u origin main# Kampus Planner
 
 Aplikasi web pengelola tugas kuliah untuk mahasiswa. Semua tugas, deadline, dan prioritas dicatat dalam satu dashboard, lengkap dengan cuaca kampus ITERA dan kutipan motivasi harian.
 
@@ -20,7 +20,7 @@ Dibuat untuk tugas praktikum **JavaScript Next Gen (ES6+)**.
 
 > Ganti bagian ini dengan screenshot aplikasimu sendiri setelah dijalankan.
 
-![Tampilan dashboard](screenshots/dashboard.png)
+![Tampilan dashboard](screenshots/Screenshot 2026-10-17 231433.png)
 
 ## Cara Menjalankan
 
