@@ -18,9 +18,7 @@ Dibuat untuk tugas praktikum **JavaScript Next Gen (ES6+)**.
 
 ## Screenshot
 
-> Ganti bagian ini dengan screenshot aplikasimu sendiri setelah dijalankan.
-
-![Tampilan dashboard](screenshots/Screenshot 2026-10-17 231433.png)
+[Tampilan dashboard](screenshot/dashboard.png)
 
 ## Cara Menjalankan
 

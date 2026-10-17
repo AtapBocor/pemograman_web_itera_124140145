@@ -18,7 +18,7 @@ Dibuat untuk tugas praktikum **JavaScript Next Gen (ES6+)**.
 
 ## Screenshot
 
-![Tampilan dashboard](screenshots/Screenshot 2026-10-17 231433.png)
+[Tampilan dashboard](screenshot/dashboard.png)
 
 ## Cara Menjalankan
 
