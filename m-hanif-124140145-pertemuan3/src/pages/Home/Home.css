@@ -1,0 +1,31 @@
+.home-page {
+  width: 90%;
+  max-width: 1100px;
+  margin: 40px auto;
+}
+
+.home-header {
+  margin-bottom: 30px;
+}
+
+.home-header h1 {
+  color: #1e293b;
+  font-size: 30px;
+  margin-bottom: 8px;
+}
+
+.home-header p {
+  color: #64748b;
+  margin: 0;
+}
+
+@media (max-width: 600px) {
+  .home-page {
+    width: 92%;
+    margin: 24px auto;
+  }
+
+  .home-header h1 {
+    font-size: 24px;
+  }
+}

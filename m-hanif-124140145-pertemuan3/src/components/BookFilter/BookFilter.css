@@ -1,0 +1,39 @@
+
+.book-filter {
+  display: flex;
+  gap: 12px;
+  margin-bottom: 24px;
+}
+
+.book-filter input,
+.book-filter select {
+  padding: 12px;
+  border: 1px solid #cbd5e1;
+  border-radius: 8px;
+  font-size: 14px;
+}
+
+.book-filter input {
+  flex: 1;
+  min-width: 0;
+}
+
+.book-filter select {
+  min-width: 170px;
+}
+
+.book-filter input:focus,
+.book-filter select:focus {
+  outline: none;
+  border-color: #2563eb;
+}
+
+@media (max-width: 600px) {
+  .book-filter {
+    flex-direction: column;
+  }
+
+  .book-filter select {
+    width: 100%;
+  }
+}
